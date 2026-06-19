@@ -1,0 +1,15 @@
+# Create a Rectangle class with length and width attributes 
+# and a method area() that returns the rectangle's area.
+
+class Rectangle:
+
+    def __init__(self, length, width):
+        self.length = length
+        self.width = width
+
+    def area(self):
+        return self.length * self.width
+
+
+rect = Rectangle(5, 4)
+print("Area:", rect.area())
