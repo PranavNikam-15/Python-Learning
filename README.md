@@ -95,10 +95,5 @@ python3 --version
 - Installing packages
 - Using third-party libraries
 
-### 10. Using AI as a Developer -
-- Introduction to AI tools
-- Automating coding tasks
-- Writing code with AI assistance
-
-### 11. Hands-On Python Projects -
-- Real-world mini-projects to apply learned concepts
+### 10. Assignments -
+- Practice Questions
