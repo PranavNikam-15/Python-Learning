@@ -96,4 +96,7 @@ python3 --version
 - Using third-party libraries
 
 ### 10. Assignments -
-- Practice Questions
+- Practice Assignment Questions
+
+### 11. Projects -
+- Mini Projects
